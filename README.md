@@ -1,1 +1,1 @@
-# sample--web-host
+# sample-web-host
